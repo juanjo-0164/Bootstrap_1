@@ -1,0 +1,121 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #8986e0;
+}
+
+.boder {
+    background-color: #d6116d;
+}
+.row > div {
+    border: 2px solid #ffffff;
+}
+
+.caja1 {
+    background-color: #9d7d63;
+    height: 100px;
+}
+
+.caja2 {
+    background-color: #d39529;
+    height: 100px;
+}
+
+.caja3 {
+    background-color: #ecc021cc;
+    height: 100px;
+}
+
+.caja4 {
+    background-color: #d55e23;
+    height: 100px;
+}
+.caja5 {
+    background-color: #f5c117;
+    height: 100px;
+}
+.caja6 {
+    background-color: #dc8606;
+    height: 100px;
+}
+
+.caja7 {
+    background-color: #a14d07;
+    height: 100px;
+}
+
+.caja8 {
+    background-color: #d5964a;
+    height: 100px;
+}
+
+.caja9 {
+    background-color: #f2bf47;
+    height: 100px;
+}
+
+.caja10 {
+    background-color: #d19107;
+    height: 100px;
+}
+
+.caja11 {
+    background-color: #863205;
+    height: 100px;
+}
+
+.caja12 {
+    background-color: #d3250e;
+    height: 100px;
+}
+
+.caja13 {
+    background-color: #ff961d;
+    height: 100px;
+}
+@media (max-width: 767.98px) { .caja1 { height: 30px; }     
+                                .caja2 { height: 200px; }
+                                .caja3 { height: 200px; } 
+                                .caja4 { height: 190px; }
+                                .caja5 { height: 120px; }
+                                .caja6 { height: 120px;}
+                                .caja7 { height: 120px;}
+                                .caja8 { height: 100px;}
+                                .caja9 { height: 100px;}
+                                .caja10 { height: 100px;}
+                                .caja11 { height: 100px;}
+                                .caja12 { height: 100px;}
+                                .caja13 { height: 100px; } }
+
+
+@media (min-width: 768px) and (max-width: 991.98px){ 
+                                .caja1 { height: 30px; }
+                                .caja2 { height: 290px; }
+                                .caja3 { height: 290px; } 
+                                .caja4 { height: 120px; }
+                                .caja5 { height: 120px; }
+                                .caja6 { height: 120px;}
+                                .caja7 { height: 120px;}
+                                .caja8 { height: 100px;}
+                                .caja9 { height: 100px;}
+                                .caja10 { height: 100px;}
+                                .caja11 { height: 100px;}
+                                .caja12 { height: 100px;}
+                                .caja13 { height: 100px; } }
+
+
+@media (min-width: 992px) {     .caja1 { height: 30px; }
+                                .caja2 { height: 250px; }
+                                .caja3 { height: 180px; } 
+                                .caja4 { height: 180px; }
+                                .caja5 { height: 180px; }
+                                .caja6 { height: 120px;}
+                                .caja7 { height: 120px;}
+                                .caja8 { height: 120px;}
+                                .caja9 { height: 120px;}
+                                .caja10 { height: 80px;}
+                                .caja11 { height: 80px;}
+                                .caja12 { height: 80px;}
+                                .caja13 { height: 80px; } }
