@@ -92,8 +92,8 @@ body {
 
 @media (min-width: 768px) and (max-width: 991.98px){ 
                                 .caja1 { height: 30px; }
-                                .caja2 { height: 290px; }
-                                .caja3 { height: 290px; } 
+                                .caja2 { height: 250px; }
+                                .caja3 { height: 250px; } 
                                 .caja4 { height: 120px; }
                                 .caja5 { height: 120px; }
                                 .caja6 { height: 120px;}
@@ -107,15 +107,15 @@ body {
 
 
 @media (min-width: 992px) {     .caja1 { height: 30px; }
-                                .caja2 { height: 250px; }
+                                .caja2 { height: 180px; }
                                 .caja3 { height: 180px; } 
                                 .caja4 { height: 180px; }
                                 .caja5 { height: 180px; }
-                                .caja6 { height: 120px;}
-                                .caja7 { height: 120px;}
-                                .caja8 { height: 120px;}
-                                .caja9 { height: 120px;}
+                                .caja6 { height: 180px;}
+                                .caja7 { height: 180px;}
+                                .caja8 { height: 180px;}
+                                .caja9 { height: 180px;}
                                 .caja10 { height: 80px;}
                                 .caja11 { height: 80px;}
                                 .caja12 { height: 80px;}
-                                .caja13 { height: 80px; } }
+                                .caja13 { height: 80px; } } 
